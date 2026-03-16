@@ -19,3 +19,7 @@ print("*       *")
 print("*  ---  *")
 print(" *     * ")
 print("  *****  ")
+
+print(" /\\_/\\ ")
+print("( o o )")
+print(" = ^ = ")
