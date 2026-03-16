@@ -20,9 +20,9 @@ print("*  ---  *")
 print(" *     * ")
 print("  *****  ")
 
-print(" /\\_/\\ ")
-print("( o o )")
-print(" = ^ = ")
+print("                                                                           /\\_/\\ ")
+print("                                                                           ( o o )")
+print("                                                                           = ^ = ")
 print("THE CAT WILL PROVIDE FACTORIAL")
 
 def factorial(n):
